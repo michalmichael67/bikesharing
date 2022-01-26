@@ -1,4 +1,4 @@
-# bikesharing
+# Bikesharing
 
 ## Overview 
 In New York, there is a successful bikesharing program - NYC Citi Bike Program. In this project, we analyzed data from the NYC bikesharing program to try and draw conclusions about the possible success of a ridesharing program in Des Moines, Iowa. In order to pitch a DM Citi Bike Program, our goal was to get to know the NYC users and bike preferences.
