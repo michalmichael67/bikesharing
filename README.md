@@ -19,21 +19,31 @@ In this visualization, the goal is to get an overview fo the user profile.
 
 This visualization shows that most users are male subscribers that use the bikes most often on Monday-Friday. This helps us hone in on the largest target audience for the bikesharing program.
 
+----------
+
 ![hour](Resources/hour.jpeg)
 
 When we begin to look at a heatmap for when the bikes are taken out and returned each day, it becomes clear that the bikes are used for commuting to work. In the morning, the bikes are mainly used from 7-10 AM and at night from 5-8 PM. When we looked at the same data broken down by gender, the most popular times that bikes were used was unchanged.
+
+----------
 
 ![length](Resources/length.jpeg)
 
 Going with our hypothesis that these bikes are used for commuting to work, most trips are under an hour.
 
+----------
+
 ![gender_length](Resources/gender_length.jpeg)
 
 When we break the length of trip down by gender, the same pattern holds true.
 
+----------
+
 ![start_location](Resources/start_location.jpeg)
 
 When trying to understand where users begin their rides, midtown Manhattan stands out on the map - this area corresponds to business hubs.
+
+----------
 
 ![end_location](Resources/end_location.jpeg)
 
