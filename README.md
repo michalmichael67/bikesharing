@@ -6,6 +6,8 @@ In New York, there is a successful bikesharing program - NYC Citi Bike Program. 
 ## Results 
 [Click to see the complete Tableau Story of the visualizations!](https://public.tableau.com/app/profile/michal.michael/viz/Bikesharing_Challenge_16432219562030/Story1?publish=yes)
 
+----------
+
 ![user_profile](Resources/user_profile.jpeg) 
 
 In this visualization, the goal is to get an overview fo the user profile. 
