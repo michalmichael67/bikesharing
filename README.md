@@ -13,6 +13,8 @@ In this visualization, the goal is to get an overview fo the user profile.
 - Most users are Male
 - Nost users were both in 1969 and after 1986
 
+----------
+
 ![user_type](Resources/user_type.jpeg)
 
 This visualization shows that most users are male subscribers that use the bikes most often on Monday-Friday. This helps us hone in on the largest target audience for the bikesharing program.
